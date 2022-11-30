@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **band.wiktor@gmail.com**
 
-- ⚡ Fun fact **Name of my kitty is Stefa 🐈🧙‍♂️**
+- ⚡ Fun fact **Name of my kitty is Stefa 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
