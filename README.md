@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Wiktor 🧙‍♂️</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
 
-<p>I am looking for a new opportunities. Keep looking for something interesting to learn 👀 🥸</p>
+<p>I am looking for a new opportunities and for something interesting to learn 👀 🥸</p>
 
 - 🧑‍💻 I’m currently working on **my portfolio website**
 
