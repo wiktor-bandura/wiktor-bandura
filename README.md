@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktor-bandura&show_icons=true&locale=en&layout=compact" alt="wiktor-bandura" /></p>
 
+<p><a href="https://seohost.pl/?ref=56197" rel="nofollow"><img src="https://cdn.seohost.pl/pp/1/728-90.png" alt="SeoHost.pl"></a> </p>
+
