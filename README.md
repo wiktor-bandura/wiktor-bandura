@@ -3,19 +3,17 @@
 
 <p>I am looking for a new opportunities and for something interesting to learn 👀 🥸</p>
 
-- 🧑‍💻 I’m currently working on **my portfolio website**
+- 🧑‍💻 I’m currently working on **redesign of fskorusa.archidiecezja.wroc.pl**
 
-- 📚 I’m currently learning **Wordpress plugin development and React.js**
+- 📚 I’m currently learning **React.js**
 
 - 📫 How to reach me **band.wiktor@gmail.com**
 
-- 😁 Fun fact **Name of my kitty is Stefa 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_wikb_js_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_wikb_js_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wiktor-bandura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiktor-bandura" height="30" width="40" /></a>
-<a href="https://instagram.com/wiktor.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wiktor.js" height="30" width="40" /></a>
 </p>
 
 <p align="left">
